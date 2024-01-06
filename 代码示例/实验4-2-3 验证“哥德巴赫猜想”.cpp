@@ -4,17 +4,17 @@ typedef long long ll;
 
 int isprime(ll x)
 {
-    int isprime = 1;
+    int ret = 1;
     for(int i = 2; i <= sqrt(x); i ++)
     {
         if(x % i == 0)
         {
-            isprime = 0;
+            ret = 0;
             break;
         }
     }
 
-    return isprime;
+    return ret;
 }
 
 
