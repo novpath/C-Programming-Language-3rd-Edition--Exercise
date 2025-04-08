@@ -1,5 +1,4 @@
 
-
 # C 语言程序设计实验与习题指导
 
 ## 项目简介
@@ -20,7 +19,7 @@
 * 文档使用 Typora(1.9.5 Version)编辑器编辑，部分 md 编辑器可能有些语法无法支持。
 * 文档含有 Latex 语言、HTML、内联公式、flow 流程图、图片等，浏览时如果无法正常显示，可以打开编辑器相应的高级选项尝试解决。
 
-- 欢迎⭐️star⭐️项目，有任何疑问或者问题欢迎提出 issue 或联系：[novpath@gmail.com](mailto:novpath@gmail.com)。 
+* 欢迎⭐️star⭐️项目，有任何疑问或者问题欢迎提出 issue 或联系：[novpath@gmail.com](mailto:novpath@gmail.com)。
 
 ## 使用方式
 
@@ -45,4 +44,3 @@
 | ⑤    | :pencil2:  | 校对，主要指更正错别字、更新注释等 | `:pencil2:`  |
 | ⑥    | :bug:      | 修复代码中的 BUG                    | `:bug:`      |
 | ⑦    | :sparkles: | 排版、样式、新功能更新             | `:sparkles:`​ |
-
